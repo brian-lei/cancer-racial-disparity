@@ -1,0 +1,204 @@
+Gene	Cytoband	(A) Black or African American	(B) White	(A) Black or African American	(B) White	Log Ratio	p-Value	q-Value	Higher expression in
+RAD51	15q15.1	-0.87	-1.21	0.43	0.35	0.34	1.50e-14	3.05e-12	(A) Black or African American
+TSC1	9q34.13	1.74	1.52	0.32	0.37	0.22	1.24e-10	1.08e-8	(A) Black or African American
+EIF4EBP1_PT70	17q21	-0.24	-0.45	0.32	0.26	0.20	1.59e-10	1.08e-8	(A) Black or African American
+ASNS	7q21.3	-0.53	-0.95	0.68	0.59	0.42	5.26e-10	2.63e-8	(A) Black or African American
+DIRAS3	1p31.3	-3.00	-2.72	0.46	0.33	-0.28	6.48e-10	2.63e-8	(B) White
+CDK1	10q21.2	0.24	0.08	0.26	0.27	0.16	1.54e-9	5.22e-8	(A) Black or African American
+STMN1	1p36.11	0.02	-0.21	0.42	0.33	0.24	7.72e-9	2.24e-7	(A) Black or African American
+ERBB3_PY1298	22q13.1	0.43	0.27	0.29	0.24	0.16	2.50e-8	6.34e-7	(A) Black or African American
+PGR	11q22.1	-0.66	-0.51	0.26	0.32	-0.15	4.20e-8	9.46e-7	(B) White
+INPP4B	4q31.21	-0.31	0.27	1.11	1.10	-0.58	1.34e-7	2.720e-6	(B) White
+GATA3	10p14	1.37	1.94	1.18	1.07	-0.57	7.22e-7	1.333e-5	(B) White
+ATM	11q22.3	2.35	1.99	0.77	0.63	0.36	9.11e-7	1.541e-5	(A) Black or African American
+CASP7	10q25.3	-0.23	-0.64	0.88	0.68	0.40	1.657e-6	2.588e-5	(A) Black or African American
+MYH9_PS1943	10q11.22	-1.01	-0.76	0.54	0.38	-0.25	1.997e-6	2.895e-5	(B) White
+CDKN1A	6p21.2	0.33	0.51	0.40	0.32	-0.18	2.518e-6	3.407e-5	(B) White
+LCK	1p35.2	0.55	0.29	0.59	0.50	0.27	3.067e-6	3.891e-5	(A) Black or African American
+CDKN1B_PT198	Xp11.4-p11.2	0.11	0.00	0.23	0.19	0.10	3.460e-6	4.131e-5	(A) Black or African American
+TIGAR	12p13.32	0.89	0.66	0.54	0.31	0.23	4.807e-6	5.421e-5	(A) Black or African American
+MTOR_PS2448	8p11.1	-0.77	-0.63	0.31	0.23	-0.13	5.080e-6	5.427e-5	(B) White
+NFKB1_PS536	16p11.2	0.45	0.07	0.86	0.69	0.38	5.390e-6	5.470e-5	(A) Black or African American
+CLDN7	17p13.1	1.62	0.99	1.48	0.90	0.63	5.666e-6	5.477e-5	(A) Black or African American
+FASN	17q25.3	0.80	1.48	1.56	1.23	-0.67	5.960e-6	5.500e-5	(B) White
+CHEK2_PT68	1p32-p31	-0.67	-0.82	0.33	0.34	0.15	9.716e-6	8.576e-5	(A) Black or African American
+CDH3	16q22.1	-1.27	-1.38	0.26	0.24	0.11	1.080e-5	9.139e-5	(A) Black or African American
+RPS6_PS240_S244	5q21-q22	-1.13	-0.68	1.09	0.78	-0.45	1.356e-5	1.101e-4	(B) White
+KDR	4q12	1.71	1.93	0.52	0.50	-0.22	1.558e-5	1.217e-4	(B) White
+STK11	19p13.3	0.56	0.43	0.34	0.24	0.13	3.440e-5	2.586e-4	(A) Black or African American
+RPS6KA1_PT359_S363	5q21-q22	-0.35	-0.48	0.32	0.30	0.13	3.811e-5	2.763e-4	(A) Black or African American
+NF2	22q12.2	0.70	0.83	0.31	0.39	-0.13	4.394e-5	3.076e-4	(B) White
+RAB25	1q22	-1.57	-1.29	0.71	0.59	-0.28	4.639e-5	3.139e-4	(B) White
+SYK	9q22.2	1.93	1.55	1.02	0.72	0.38	7.006e-5	4.588e-4	(A) Black or African American
+STAT5A	17q21.2	2.35	1.97	1.02	0.74	0.38	7.373e-5	4.677e-4	(A) Black or African American
+YAP1_PS127	20q12-q13	2.11	1.78	0.91	0.67	0.33	1.070e-4	6.582e-4	(A) Black or African American
+SMAD3	15q22.33	0.71	0.58	0.36	0.30	0.13	1.482e-4	8.848e-4	(A) Black or African American
+YAP1	11q22.1	0.36	0.20	0.44	0.35	0.16	1.585e-4	9.190e-4	(A) Black or African American
+CCNB1	5q13.2	0.64	0.32	0.87	0.85	0.32	1.641e-4	9.253e-4	(A) Black or African American
+SRC	20q11.23	-0.52	-0.68	0.44	0.35	0.16	1.946e-4	1.068e-3	(A) Black or African American
+PTEN	10q23.31	0.02	0.27	0.72	0.63	-0.25	2.439e-4	1.303e-3	(B) White
+GAB2	11q14.1	1.27	1.00	0.78	0.56	0.27	2.661e-4	1.358e-3	(A) Black or African American
+XRCC5	2q35	1.61	1.47	0.39	0.40	0.14	2.675e-4	1.358e-3	(A) Black or African American
+YBX1_PS102	20q12-q13	0.02	-0.08	0.30	0.22	0.10	3.329e-4	1.648e-3	(A) Black or African American
+TSC2_PT1462	1q21	-0.65	-0.52	0.39	0.31	-0.13	4.149e-4	2.005e-3	(B) White
+PREX1	20q13.13	-0.11	0.18	0.86	0.87	-0.30	4.464e-4	2.107e-3	(B) White
+CHEK1	11q24.2	-0.52	-0.39	0.39	0.27	-0.13	4.734e-4	2.184e-3	(B) White
+PRKAA1	5p13.1	0.54	0.64	0.29	0.34	-0.10	5.595e-4	2.524e-3	(B) White
+RAD50	5q31.1	0.05	0.14	0.29	0.28	-0.10	6.487e-4	2.863e-3	(B) White
+CDH2	18q12.1	-0.16	-0.31	0.46	0.38	0.14	9.937e-4	4.292e-3	(A) Black or African American
+MAPK1	22q11.22	0.92	0.81	0.35	0.37	0.11	1.076e-3	4.549e-3	(A) Black or African American
+RICTOR_PT1135	2q31.1	0.52	0.39	0.45	0.31	0.14	1.131e-3	4.685e-3	(A) Black or African American
+MAPK8_PT183_Y185		-0.39	-0.29	0.31	0.29	-0.10	1.159e-3	4.707e-3	(B) White
+AR	Xq12	0.62	0.94	1.04	0.87	-0.32	1.261e-3	4.988e-3	(B) White
+CDKN1B	12p13.1	0.36	0.23	0.42	0.36	0.13	1.286e-3	4.988e-3	(A) Black or African American
+RAF1	3p25.2	1.08	1.01	0.25	0.22	0.08	1.302e-3	4.988e-3	(A) Black or African American
+KIT	4q12	0.59	0.23	1.25	0.64	0.36	1.549e-3	5.824e-3	(A) Black or African American
+MYH11	16p13.11	0.84	0.07	2.67	1.53	0.77	1.611e-3	5.947e-3	(A) Black or African American
+PCNA	20p12.3	-1.13	-1.23	0.33	0.31	0.10	1.680e-3	6.091e-3	(A) Black or African American
+VHL	3p25.3	0.74	1.27	1.82	1.29	-0.52	2.065e-3	7.174e-3	(B) White
+AKT1_PS473	8p11.1	-0.91	-0.65	0.89	0.83	-0.26	2.120e-3	7.174e-3	(B) White
+AKT2_PS473	8p11.1	-0.91	-0.65	0.89	0.83	-0.26	2.120e-3	7.174e-3	(B) White
+AKT3_PS473	8p11.1	-0.91	-0.65	0.89	0.83	-0.26	2.120e-3	7.174e-3	(B) White
+MAP2K1	15q22.31	0.63	0.52	0.37	0.36	0.11	2.356e-3	7.592e-3	(A) Black or African American
+ACACA_PS79	3q13.3	0.08	0.32	0.83	0.72	-0.24	2.356e-3	7.592e-3	(B) White
+ACACB_PS79	8p11.1	0.08	0.32	0.83	0.72	-0.24	2.356e-3	7.592e-3	(B) White
+MAPK9	5q35.3	0.44	0.57	0.44	0.39	-0.13	2.614e-3	8.025e-3	(B) White
+SQSTM1	5q35.3	-0.02	0.20	0.77	0.61	-0.22	2.615e-3	8.025e-3	(B) White
+BAP1	3p21.1	-1.27	-1.07	0.74	0.40	-0.20	2.633e-3	8.025e-3	(B) White
+EIF4E	4q23	0.46	0.40	0.24	0.24	0.07	2.649e-3	8.025e-3	(A) Black or African American
+PARK7	1p36.23	0.71	0.82	0.37	0.41	-0.11	2.890e-3	8.628e-3	(B) White
+SRSF1	17q22	-1.70	-1.60	0.33	0.27	-0.09	3.048e-3	8.967e-3	(B) White
+CHEK1_PS345	5p12	-0.63	-0.52	0.43	0.25	-0.11	3.228e-3	9.360e-3	(B) White
+RPS6_PS235_S236	5q21-q22	-1.12	-0.85	0.98	0.69	-0.27	3.409e-3	9.748e-3	(B) White
+MRE11	11q21	0.20	0.12	0.30	0.27	0.08	3.593e-3	9.869e-3	(A) Black or African American
+BCL2	18q21.33	-0.30	-0.11	0.69	0.64	-0.19	3.597e-3	9.869e-3	(B) White
+HSPA1A	6p21.33	1.55	1.22	1.20	0.91	0.33	3.598e-3	9.869e-3	(A) Black or African American
+ARAF_PS299	12q24.11	-1.30	-1.22	0.29	0.22	-0.08	3.812e-3	0.0102	(B) White
+EEF2K	16p12.2	0.04	0.22	0.69	0.47	-0.19	3.824e-3	0.0102	(B) White
+SHC1_PY317	13q14.2	-2.26	-2.15	0.37	0.31	-0.10	3.935e-3	0.0104	(B) White
+BID	22q11.21	0.79	0.69	0.37	0.30	0.10	4.301e-3	0.0112	(A) Black or African American
+MS4A1	11q12.2	-0.01	-0.11	0.37	0.28	0.10	4.365e-3	0.0112	(A) Black or African American
+DIABLO	12q24.31	-0.11	0.05	0.60	0.48	-0.16	4.860e-3	0.0123	(B) White
+NOTCH1	9q34.3	-0.57	-0.67	0.38	0.29	0.10	5.004e-3	0.0125	(A) Black or African American
+GSK3A	19q13.2	0.73	0.65	0.31	0.27	0.08	6.014e-3	0.0147	(A) Black or African American
+GSK3B	3q13.33	0.73	0.65	0.31	0.27	0.08	6.014e-3	0.0147	(A) Black or African American
+PDK1_PS241	15q22.1-q22.33	0.61	0.71	0.38	0.37	-0.10	6.070e-3	0.0147	(B) White
+BAK1	6p21.31	0.94	0.82	0.46	0.42	0.12	6.255e-3	0.0149	(A) Black or African American
+SMAD1	4q31.21	0.31	0.20	0.45	0.28	0.11	6.609e-3	0.0156	(A) Black or African American
+PEA15	1q23.2	1.18	1.07	0.46	0.34	0.11	7.660e-3	0.0179	(A) Black or African American
+ERCC1	19q13.32	-0.61	-0.46	0.66	0.30	-0.15	0.0103	0.0238	(B) White
+ACACA	17q12	1.59	1.79	0.83	0.78	-0.20	0.0116	0.0265	(B) White
+BAX	19q13.33	1.24	1.16	0.34	0.29	0.08	0.0138	0.0310	(A) Black or African American
+PEA15_PS116	1p36.2	-0.53	-0.44	0.37	0.43	-0.09	0.0141	0.0314	(B) White
+MAP2K1_PS217_S221	5q21-q22	-0.13	-0.27	0.64	0.45	0.14	0.0149	0.0329	(A) Black or African American
+PDCD4	10q25.2	1.71	1.53	0.76	0.74	0.17	0.0178	0.0389	(A) Black or African American
+PRKCB_PS660	5q21-q22	1.06	0.96	0.48	0.43	0.11	0.0196	0.0423	(A) Black or African American
+ANXA1	9q21.13	0.28	0.10	0.82	0.64	0.18	0.0222	0.0470	(A) Black or African American
+BRAF	7q34	1.34	1.20	0.65	0.62	0.14	0.0222	0.0470	(A) Black or African American
+YWHAB	20q13.12	-0.43	-0.49	0.30	0.22	0.06	0.0229	0.0475	(A) Black or African American
+BAD_PS112	19q13.1-q13.2	0.29	0.22	0.33	0.26	0.07	0.0229	0.0475	(A) Black or African American
+PECAM1	17q23.3	-1.30	-1.24	0.30	0.29	-0.06	0.0254	0.0520	(B) White
+YBX1	1p34.2	-0.65	-0.59	0.29	0.33	-0.06	0.0275	0.0559	(B) White
+CTNNB1	3p22.1	1.46	1.63	0.77	0.81	-0.17	0.0281	0.0565	(B) White
+MAPK14_PT180_Y182	5q21-q22	0.68	0.54	0.67	0.55	0.14	0.0302	0.0602	(A) Black or African American
+BIRC2	11q22.2	0.15	0.20	0.29	0.26	-0.06	0.0310	0.0610	(B) White
+EGFR_PY1173	3p25	0.43	0.50	0.30	0.29	-0.06	0.0317	0.0619	(B) White
+PDK1	2q31.1	-0.52	-0.45	0.32	0.25	-0.06	0.0326	0.0626	(B) White
+DVL3	3q27.1	0.43	0.53	0.50	0.35	-0.10	0.0327	0.0626	(B) White
+ACVRL1	12q13.13	-0.47	-0.52	0.24	0.24	0.05	0.0359	0.0682	(A) Black or African American
+XBP1	22q12.1|22q12	-0.91	-0.97	0.34	0.26	0.06	0.0397	0.0745	(A) Black or African American
+RAF1_PS338	1q44	0.05	-0.00	0.28	0.19	0.05	0.0443	0.0825	(A) Black or African American
+ETS1	11q24.3	0.38	0.23	0.79	0.69	0.15	0.0460	0.0848	(A) Black or African American
+AKT1	14q32.33	1.01	1.10	0.49	0.43	-0.09	0.0490	0.0880	(B) White
+AKT2	19q13.2	1.01	1.10	0.49	0.43	-0.09	0.0490	0.0880	(B) White
+AKT3	1q43-q44	1.01	1.10	0.49	0.43	-0.09	0.0490	0.0880	(B) White
+TFRC	3q29	0.51	0.34	0.95	0.82	0.17	0.0576	0.103	(A) Black or African American
+ITGA2	5q11.2	-0.94	-0.85	0.52	0.37	-0.09	0.0588	0.104	(B) White
+MTOR	1p36.22	0.96	1.04	0.46	0.33	-0.08	0.0624	0.109	(B) White
+RICTOR	5p13.1	0.37	0.22	0.89	0.60	0.15	0.0634	0.110	(A) Black or African American
+GSK3A_PS9	8p11.1	0.45	0.56	0.61	0.59	-0.11	0.0643	0.110	(B) White
+GSK3B_PS9	8p11.1	0.45	0.56	0.61	0.59	-0.11	0.0643	0.110	(B) White
+EIF4EBP1_PT37	8p12	0.95	0.81	0.81	0.69	0.14	0.0651	0.110	(A) Black or African American
+ERBB2_PY1248	6q25.1	0.08	-0.05	0.75	0.62	0.13	0.0673	0.113	(A) Black or African American
+G6PD	Xq28	-1.40	-1.33	0.42	0.39	-0.07	0.0680	0.113	(B) White
+EGFR_PY1068	7q31	-1.85	-1.74	0.66	0.64	-0.11	0.0803	0.132	(B) White
+TGM2	20q11.23	-0.87	-0.82	0.29	0.32	-0.05	0.0805	0.132	(B) White
+EEF2	19p13.3	0.56	0.64	0.50	0.50	-0.08	0.0870	0.141	(B) White
+FOXO3	6q21	-0.58	-0.62	0.27	0.23	0.04	0.0935	0.150	(A) Black or African American
+MSH2	2p21-p16.3	-0.95	-0.86	0.59	0.42	-0.09	0.0939	0.150	(B) White
+STAT3_PY705	19q13.33	0.29	0.19	0.65	0.43	0.10	0.0977	0.155	(A) Black or African American
+ESR1_PS118	11q24.2	0.19	0.31	0.79	0.60	-0.12	0.0986	0.155	(B) White
+EIF4EBP1_PS65	8p12	0.08	0.02	0.37	0.31	0.06	0.101	0.158	(A) Black or African American
+CCNE2	8q22.1	0.83	0.92	0.61	0.38	-0.09	0.107	0.166	(B) White
+EGFR	7p11.2	-0.24	-0.30	0.41	0.39	0.06	0.117	0.180	(A) Black or African American
+SCD	10q24.31	-1.76	-1.69	0.49	0.40	-0.07	0.126	0.192	(B) White
+XRCC1	19q13.31	-0.11	-0.06	0.38	0.28	-0.05	0.129	0.195	(B) White
+NDRG1_PT346	22q11.21	-0.99	-0.85	0.97	0.75	-0.14	0.133	0.201	(B) White
+MYC	8q24.21	1.00	0.91	0.64	0.61	0.09	0.134	0.201	(A) Black or African American
+ERRFI1	1p36.23	-0.28	-0.24	0.32	0.22	-0.04	0.142	0.211	(B) White
+MSH6	2p16.3	0.07	-0.03	0.70	0.57	0.09	0.152	0.224	(A) Black or African American
+RPTOR	17q25.3	1.39	1.42	0.26	0.29	-0.03	0.170	0.248	(B) White
+FOXO3_PS318_S321	5q21-q22	-1.33	-1.35	0.19	0.16	0.02	0.183	0.266	(A) Black or African American
+SRC_PY416	9p21	-0.40	-0.34	0.47	0.37	-0.06	0.197	0.284	(B) White
+JUN_PS73	17q21.31	-0.82	-0.79	0.29	0.26	-0.03	0.205	0.293	(B) White
+PRKCA_PS657	4q24	-1.28	-1.22	0.50	0.35	-0.06	0.209	0.296	(B) White
+IGFBP2	2q35	0.73	0.85	1.06	0.95	-0.13	0.210	0.296	(B) White
+BCL2L11	2q13	0.56	0.48	0.68	0.54	0.08	0.214	0.300	(A) Black or African American
+SMAD4	18q21.2	-1.15	-1.12	0.27	0.21	-0.03	0.227	0.316	(B) White
+TSC2	16p13.3	1.31	1.26	0.43	0.39	0.05	0.230	0.317	(A) Black or African American
+EIF4G1	3q27.1	-0.04	-0.10	0.53	0.42	0.06	0.231	0.317	(A) Black or African American
+BECN1	17q21.31	-0.66	-0.69	0.32	0.29	0.03	0.251	0.342	(A) Black or African American
+RBM15	1p13.3	1.54	1.64	0.92	0.76	-0.10	0.255	0.346	(B) White
+PIK3R1	5q13.1	1.53	1.50	0.35	0.31	0.04	0.260	0.347	(A) Black or African American
+PIK3R2	19p13.11	1.53	1.50	0.35	0.31	0.04	0.260	0.347	(A) Black or African American
+FN1	2q35	1.16	1.07	0.83	0.75	0.09	0.262	0.347	(A) Black or African American
+IRS1	2q36.3	-0.41	-0.37	0.41	0.35	-0.04	0.297	0.391	(B) White
+EIF4EBP1	8p11.23	0.36	0.29	0.71	0.56	0.07	0.299	0.392	(A) Black or African American
+RPS6	9p22.1	0.01	0.11	1.03	0.73	-0.10	0.312	0.405	(B) White
+NRAS	1p13.2	-1.38	-1.41	0.31	0.28	0.03	0.318	0.411	(A) Black or African American
+RB1_PS807_S811	5q21-q22	-0.34	-0.29	0.58	0.55	-0.05	0.325	0.417	(B) White
+MAPK14	6p21.31	0.28	0.25	0.25	0.27	0.02	0.333	0.425	(A) Black or African American
+TUBA1B	12q13.12	1.46	1.54	0.83	0.80	-0.07	0.348	0.442	(B) White
+CCND1	11q13.3	0.09	0.11	0.26	0.24	-0.02	0.354	0.446	(B) White
+ERBB2	17q12	0.87	0.77	1.17	0.85	0.10	0.360	0.451	(A) Black or African American
+PRDX1	1p34.1	-1.60	-1.57	0.41	0.33	-0.03	0.388	0.481	(B) White
+ERBB3	12q13.2	0.56	0.59	0.45	0.47	-0.04	0.389	0.481	(B) White
+ESR1	6q25.1-q25.2	1.22	1.45	2.83	1.93	-0.22	0.391	0.481	(B) White
+GAPDH	12p13.31	0.60	0.69	1.18	1.08	-0.09	0.414	0.505	(B) White
+CHEK2	22q12.1	-0.52	-0.48	0.53	0.41	-0.04	0.415	0.505	(B) White
+SERPINE1	7q22.1	-2.02	-2.07	0.76	0.62	0.06	0.435	0.525	(A) Black or African American
+YWHAE	17p13.3	-0.82	-0.81	0.21	0.19	-0.01	0.460	0.553	(B) White
+TP53	17p13.1	-1.63	-1.67	0.67	0.48	0.04	0.465	0.555	(A) Black or African American
+TP53BP1	15q15.3	1.64	1.68	0.65	0.52	-0.04	0.484	0.572	(B) White
+YWHAZ	8q22.3	1.34	1.31	0.40	0.40	0.03	0.484	0.572	(A) Black or African American
+CCNE1	19q12	-1.14	-1.21	1.26	0.58	0.08	0.492	0.577	(A) Black or African American
+CDKN1B_PT157	8p12	-0.21	-0.22	0.27	0.23	0.02	0.506	0.590	(A) Black or African American
+AKT1_PT308	8p11.1	-0.04	0.01	0.75	0.72	-0.05	0.518	0.591	(B) White
+AKT2_PT308	8p11.1	-0.04	0.01	0.75	0.72	-0.05	0.518	0.591	(B) White
+AKT3_PT308	8p11.1	-0.04	0.01	0.75	0.72	-0.05	0.518	0.591	(B) White
+BCL2L1	20q11.21	-0.34	-0.36	0.19	0.21	0.01	0.519	0.591	(A) Black or African American
+MAPK1_PT202_Y204	5q21-q22	0.24	0.18	1.17	0.74	0.06	0.542	0.611	(A) Black or African American
+MAPK3_PT202_Y204	5q21-q22	0.24	0.18	1.17	0.74	0.06	0.542	0.611	(A) Black or African American
+RAB11A	15q22.31	-0.13	-0.16	0.47	0.42	0.03	0.551	0.614	(A) Black or African American
+RAB11B	19p13.2	-0.13	-0.16	0.47	0.42	0.03	0.551	0.614	(A) Black or African American
+ANXA7	10q22.2	-0.76	-0.75	0.19	0.20	-0.01	0.563	0.625	(B) White
+CAV1	7q31.2	1.68	1.62	1.24	1.01	0.06	0.606	0.668	(A) Black or African American
+PRKCD_PS664	12p13.1-p12	-0.65	-0.63	0.28	0.21	-0.01	0.615	0.674	(B) White
+PIK3CA	3q26.32	-0.37	-0.39	0.47	0.27	0.02	0.651	0.710	(A) Black or African American
+RPS6KB1	17q23.1	0.49	0.52	0.65	0.50	-0.03	0.658	0.714	(B) White
+BRCA2	13q13.1	-0.31	-0.32	0.27	0.23	0.01	0.670	0.723	(A) Black or African American
+FOXM1	12p13.33	-0.87	-0.84	0.76	0.54	-0.03	0.684	0.735	(B) White
+COL6A1	21q22.3	1.33	1.37	1.13	0.90	-0.04	0.710	0.758	(B) White
+RPS6KB1_PT389	6q21	-1.58	-1.56	0.58	0.46	-0.02	0.718	0.762	(B) White
+PRKAA1_PT172	19q13.1-q13.2	2.18	2.20	0.55	0.54	-0.02	0.720	0.762	(B) White
+SRC_PY527	9p21	-0.42	-0.44	0.66	0.60	0.02	0.742	0.781	(A) Black or African American
+NRG1	8p12	-1.48	-1.47	0.42	0.24	-0.01	0.780	0.817	(B) White
+WWTR1	3q25.1	0.27	0.26	0.28	0.28	0.01	0.826	0.860	(A) Black or African American
+PXN	12q24.23	0.21	0.20	0.50	0.39	0.01	0.859	0.889	(A) Black or African American
+RPS6KA1	1p36.11	-0.44	-0.44	0.36	0.33	0.01	0.863	0.889	(A) Black or African American
+AKT1S1_PT246	17q23.1	0.13	0.13	0.24	0.21	0.00	0.926	0.945	(A) Black or African American
+MET_PY1235	11q13	0.33	0.33	0.24	0.20	-0.00	0.926	0.945	(B) White
+GSK3A_PS21_S9	5q21-q22	1.20	1.20	0.66	0.63	0.00	0.950	0.959	(A) Black or African American
+GSK3B_PS21_S9	5q21-q22	1.20	1.20	0.66	0.63	0.00	0.950	0.959	(A) Black or African American
+CDH1	16q22.1	0.57	0.57	1.15	1.22	0.01	0.955	0.959	(A) Black or African American
+PRKCA	17q24.2	-1.18	-1.18	0.54	0.36	-0.00	0.962	0.962	(B) White
