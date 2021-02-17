@@ -1,6 +1,6 @@
 # cancer-racial-disparity
 
-In this repository are the two Jupyter Notebook files, gene list, and gene map I used in my project titled "Investigating racial disparities in cancer by assessing genetic, transcriptomic, and proteomic biomarkers in various carcinomas using TCGA data and web-based analysis tools". I have additionally included the data files downloaded from cBioPortal as well as the PanCancer Atlas page (https://gdc.cancer.gov/about-data/publications/pancanatlas)
+In this repository are the two Jupyter Notebook files, gene list, and gene map I used in my project titled "Investigating racial disparities in cancer by assessing transcriptomic and proteomic biomarkers in various carcinomas using TCGA data and web-based analysis tools". I have additionally included the data files downloaded from cBioPortal as well as the PanCancer Atlas page (https://gdc.cancer.gov/about-data/publications/pancanatlas)
 
 For all the code to work properly, !cbioportal.ipynb and !reactome.ipynb must be placed in a master folder (here named "projectfiles"). A folder named "genelists" must be nested inside this folder, and the gene list file (!genes.txt) must be placed within genelists. The gene map was used in an attempt to faciliate the interpretation of the gene identifiers by Reactome, although this may not be necessary. I simply pasted the UniProt numerical identifiers over the first column of the files that are created when the export(typespecific_export) function is run in !reactome.ipynb. 
 
